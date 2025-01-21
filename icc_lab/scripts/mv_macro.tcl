@@ -1,0 +1,1 @@
+move_objects -x 280 -y 280 [get_cells DCT_tposemem_Bisted_RF_2P_ADV64x16_RF_2P_ADV64x16_u0_SRAM_i0]

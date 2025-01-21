@@ -1,0 +1,9 @@
+set_host_options -max_cores 16
+source -echo ../scripts/01_design_setup.tcl
+source -echo ../scripts/02_design_planning.tcl
+source -echo ../scripts/03_placement.tcl
+source -echo ../scripts/04_cts.tcl
+source -echo ../scripts/05_route.tcl
+source -echo ../scripts/06_dfm.tcl
+source -echo ../scripts/07_streamout.tcl
+source -echo ../scripts/08_outputfile.tcl

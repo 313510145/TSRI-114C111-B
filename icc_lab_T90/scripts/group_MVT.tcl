@@ -1,0 +1,8 @@
+set_attribute slow.db:slow default_threshold_voltage_group RVt -type string
+set_attribute fast.db:fast default_threshold_voltage_group RVt -type string
+set_attribute fast_hvt_leakage.db:fast_leakage default_threshold_voltage_group HVt -type string
+set_attribute slow_hvt.db:slow default_threshold_voltage_group HVt -type string
+set_attribute tpzn90gv3wc default_threshold_voltage_group IO -type string
+set_attribute nco_table_log default_threshold_voltage_group MACRO -type string
+set_attribute nco_table_cos default_threshold_voltage_group MACRO -type string
+report_threshold_voltage_group
